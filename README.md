@@ -8,45 +8,53 @@ A plataforma apresenta produtos feitos à mão, como bastidores bordados e amigu
 
 ## Funcionalidades
 
-- Página inicial com banner e categorias.
-- Listagem de produtos.
-- Busca por nome.
-- Filtro por categoria.
-- Ordenação por preço.
-- Página de detalhes dos produtos.
-- Campo para personalização.
-- Sacola de compras.
-- Adição e remoção de produtos.
-- Controle de quantidade.
-- Cálculo automático do valor total.
+- Página inicial com banner e categorias;
+- Listagem de produtos;
+- Busca por nome;
+- Filtro por categoria;
+- Ordenação por preço;
+- Página de detalhes dos produtos;
+- Campo para personalização;
+- Sacola de compras;
+- Adição e remoção de produtos;
+- Controle de quantidade;
+- Cálculo automático do valor total;
 - Layout adaptável para dispositivos móveis.
 
 ## Tecnologias utilizadas
 
-- React
-- JavaScript
-- HTML
-- CSS
-- Vite
-- Git e GitHub
+- React;
+- JavaScript;
+- HTML;
+- CSS;
+- Vite;
+- Git e GitHub.
 
 ## Como executar o projeto
 
-1. Clone este repositório:
+1. Clone o repositório:
 
-   `git clone https://github.com/isabellamap/projeto-digital-store.git`
+   ```bash
+   git clone https://github.com/isabellamap/projeto-digital-store.git
+   ```
 
-2. Acesse a pasta:
+2. Acesse a pasta do projeto:
 
-   `cd projeto-digital-store`
+   ```bash
+   cd projeto-digital-store
+   ```
 
 3. Instale as dependências:
 
-   `npm install`
+   ```bash
+   npm install
+   ```
 
-4. Inicie a aplicação:
+4. Inicie o servidor de desenvolvimento:
 
-   `npm run dev`
+   ```bash
+   npm run dev
+   ```
 
 5. Abra no navegador o endereço indicado pelo Vite, normalmente `http://localhost:5173/`.
 
