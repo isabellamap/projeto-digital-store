@@ -1,3 +1,4 @@
+
 # Pequenos Encantos — Digital Store
 
 ## Sobre o projeto
@@ -5,6 +6,11 @@
 A Pequenos Encantos é uma loja virtual de produtos artesanais, desenvolvida como projeto final do curso de Desenvolvimento Full Stack.
 
 A plataforma apresenta produtos feitos à mão, como bastidores bordados e amigurumis, permitindo que os usuários conheçam os produtos, visualizem seus detalhes e realizem personalizações.
+
+## Acesse o projeto
+
+- **Loja online:** https://projeto-digital-store-ruddy.vercel.app
+- **Repositório GitHub:** https://github.com/isabellamap/projeto-digital-store
 
 ## Funcionalidades
 
